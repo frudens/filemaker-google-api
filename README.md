@@ -6,7 +6,7 @@
 
 ## frudens_google_token.fmp12
 
-![token-1](./image/token-1.png "token-1")
+![token-2](./image/token-2.png "token-2")
 
 ## frudens_google_gmail.fmp12
 
